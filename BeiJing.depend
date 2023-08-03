@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1687763393 source:d:\documents\c-program\beijing\main.c
+	"beijing.h"
+
+1687766750 d:\documents\c-program\beijing\beijing.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1687759991 source:d:\documents\c-program\beijing\beijing.c
+	"beijing.h"
+
+1689559042 source:d:\documents\onedrive\ÎÄµµ\c-program\beijing\beijing.c
+	"beijing.h"
+
+1689559151 d:\documents\onedrive\ÎÄµµ\c-program\beijing\beijing.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1689516239 source:d:\documents\onedrive\ÎÄµµ\c-program\beijing\main.c
+	"beijing.h"
+
